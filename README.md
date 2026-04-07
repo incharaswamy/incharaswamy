@@ -1,6 +1,8 @@
 ## Hi there 👋
-![Followers](https://img.shields.io/github/followers/incharaswamy?style=social)
-![Stars](https://img.shields.io/github/stars/incharaswamy?style=social)
+## 🚀 Tech Stack
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 <!--
 **incharaswamy/incharaswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
