@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Trophy](https://github-profile-trophy.vercel.app/?username=incharaswamy&theme=radical)
+![Followers](https://img.shields.io/github/followers/incharaswamy?style=social)
+![Stars](https://img.shields.io/github/stars/incharaswamy?style=social)
 <!--
 **incharaswamy/incharaswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
